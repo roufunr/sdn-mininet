@@ -23,3 +23,6 @@ echo "import site; site.addsitedir('/usr/lib/python3/dist-packages')" >> ryu-ven
 
 Step #5
 pip install -r requirements.txt
+
+Step #6
+sudo python test_topo.py
