@@ -1,0 +1,63 @@
+[FORWARDING TABLE UPDATED] Switch s2:
+| MAC Address          | Port | Device       |
+|----------------------|------|--------------|
+| 96:ef:9f:54:7c:70    | 1    | s2           |
+| 66:65:27:0f:17:fc    | 4    | s2           |
+| e2:db:3e:3b:a1:ad    | 4    | s2           |
+| 92:e9:db:63:f8:0e    | 4    | s2           |
+| ea:39:14:dc:67:44    | 2    | s2           |
+| 9a:ca:82:9e:15:1b    | 4    | s2           |
+| ce:e1:33:72:f8:ef    | 4    | s2           |
+| ee:b6:57:37:f5:90    | 4    | s2           |
+| 12:fb:c0:5d:b5:38    | 3    | s2           |
+| d2:09:1c:57:5e:27    | 4    | s2           |
+| ca:ba:76:6e:55:e9    | 4    | controller   |
+| 7a:3c:cb:93:5d:94    | 4    | s2           |
+
+[FORWARDING TABLE UPDATED] Switch s3:
+| MAC Address          | Port | Device       |
+|----------------------|------|--------------|
+| 66:65:27:0f:17:fc    | 2    | s3           |
+| 96:ef:9f:54:7c:70    | 4    | s3           |
+| 92:e9:db:63:f8:0e    | 3    | s3           |
+| ea:39:14:dc:67:44    | 4    | s3           |
+| 9a:ca:82:9e:15:1b    | 4    | s3           |
+| ce:e1:33:72:f8:ef    | 4    | s3           |
+| 12:d1:7e:3f:20:c4    | 4    | s3           |
+| 12:fb:c0:5d:b5:38    | 4    | s3           |
+| 22:c4:4b:fa:ab:ad    | 4    | s3           |
+| d2:09:1c:57:5e:27    | 4    | s3           |
+| ca:ba:76:6e:55:e9    | 1    | controller   |
+| 7a:3c:cb:93:5d:94    | 4    | s3           |
+
+[FORWARDING TABLE UPDATED] Switch s4:
+| MAC Address          | Port | Device       |
+|----------------------|------|--------------|
+| 66:65:27:0f:17:fc    | 3    | s4           |
+| 96:ef:9f:54:7c:70    | 2    | s4           |
+| 92:e9:db:63:f8:0e    | 3    | s4           |
+| ea:39:14:dc:67:44    | 2    | s4           |
+| 9a:ca:82:9e:15:1b    | 1    | s4           |
+| ce:e1:33:72:f8:ef    | 1    | s4           |
+| ee:b6:57:37:f5:90    | 3    | s4           |
+| 12:fb:c0:5d:b5:38    | 2    | s4           |
+| 22:c4:4b:fa:ab:ad    | 2    | s4           |
+| d2:09:1c:57:5e:27    | 1    | s4           |
+| ca:ba:76:6e:55:e9    | 3    | controller   |
+| 7a:3c:cb:93:5d:94    | 1    | s4           |
+
+[FORWARDING TABLE UPDATED] Switch s1:
+| MAC Address          | Port | Device       |
+|----------------------|------|--------------|
+| 66:65:27:0f:17:fc    | 4    | s1           |
+| 96:ef:9f:54:7c:70    | 4    | s1           |
+| 92:e9:db:63:f8:0e    | 4    | s1           |
+| ea:39:14:dc:67:44    | 4    | s1           |
+| 9a:ca:82:9e:15:1b    | 2    | s1           |
+| a6:af:55:79:25:f5    | 4    | s1           |
+| ee:b6:57:37:f5:90    | 4    | s1           |
+| 12:fb:c0:5d:b5:38    | 4    | s1           |
+| d2:09:1c:57:5e:27    | 1    | s1           |
+| 22:c4:4b:fa:ab:ad    | 4    | s1           |
+| ca:ba:76:6e:55:e9    | 4    | controller   |
+| 7a:3c:cb:93:5d:94    | 3    | s1           |

@@ -2,4 +2,4 @@ deactivate  # Exit the virtual environment
 source ryu-venv/bin/activate  # Reactivate it
 
 # Allow access to system-wide packages
-echo "import site; site.addsitedir('/usr/lib/python3/dist-packages')" >> ryu-venv/lib/python3.10/site-packages/mininet.pth
+echo "import site; site.addsitedir('/usr/lib/python3/dist-packages')" >> venv/lib/python3.9/site-packages/mininet.pth
